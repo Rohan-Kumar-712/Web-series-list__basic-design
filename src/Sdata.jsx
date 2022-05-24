@@ -34,9 +34,9 @@ const Sdata = [ {
 },
 
 {
-    imgsrc:"https://jamesstonewriting.files.wordpress.com/2020/09/screenshot_20200913-222816_imdb_compress75.jpg" ,
+    imgsrc:"https://flxt.tmsimg.com/assets/p9155926_b_h9_ar.jpg" ,
     title:"A Netflix Original Series" ,
-    sname:"Ragnarok" ,
+    sname:"Vikings" ,
     link:"https://www.netflix.com/in/title/80232926",
     genre:"Fantasy, Thriller",
     id: 5

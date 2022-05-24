@@ -19,7 +19,7 @@ function App() {
         genre={val.genre} />
       );
   })}           
-  </>
+</>
     )
 }
 
